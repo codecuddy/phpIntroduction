@@ -39,13 +39,6 @@
             
         <?php
             
-            // CONSTANTS: written in all caps
-            define("TITLE", "PHP Variables and Constants");
-            
-            echo TITLE;
-            
-            
-            
         ?>
 </html>
 
